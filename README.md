@@ -1,2 +1,2 @@
-# js-hindi-testing
+# js-testing
 A code repo for javascript
